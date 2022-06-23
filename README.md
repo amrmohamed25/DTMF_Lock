@@ -1,1 +1,2 @@
 # DTMF_Lock
+This project was done using codevision AVR for a project. The input is DTMF tone that was captured by DTMF 8870 and then the output of the DTMF was sent to Micrcontroller atmega16. There are two modes: set password where a button is pressed and each captured dtmf tone will be used as a password, check mode in which the saved password will be checked with entered password if password is the same then 'Success' will be displayed ln the LCD else 'Error' will be displayed
